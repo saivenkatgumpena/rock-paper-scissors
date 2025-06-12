@@ -30,4 +30,4 @@ while True:
     else:
         print("Computer wins!")
 
-    print()  # blank line for spacing
+    print() 
